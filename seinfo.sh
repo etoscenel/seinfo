@@ -1,8 +1,8 @@
 #!/bin/bash
-# InfoG v1.0
+# Seinfo v600.0
 # coded by @thelinuxchoice (Don't change, read the lincense!)
-# Github: github.com/thelinuxchoice/infoG
-# Instagram: @thelinuxchoice
+# Github: github.com/etoscenel/seinfo
+# Edited by @etoscenel
 
 banner() {
 printf "\n"
@@ -16,8 +16,8 @@ printf "\e[1;77m       .:: .::  .::  .::   .::  .::  \e[0m\e[1;93m.::    .:  \e[
 printf "\e[1;77m       .::.:::  .::  .::     .::      \e[0m\e[1;93m.:::::    \e[0m\n"
 printf "\e[1;77m     ::::::::::::::::::::::::::::::::::::::::::\e[0m\n"
 printf "\n"
-printf "\e[1;92m     .::.\e[0m\e[1;77m Infomation Gathering Tool - v1.0 \e[1;92m.::.\e[0m\n"
-printf "\e[1;32m  .::.        Coded by @thelinuxchoice        .::.\e[0m\n"
+printf "\e[1;92m     .::.\e[0m\e[1;77m Select Infomation Tool - v600.0 \e[1;92m.::.\e[0m\n"
+printf "\e[1;32m  .::.        Edited By @etoscenel        .::.\e[0m\n"
 printf "\n"
 
 }
