@@ -1,4 +1,4 @@
-# InfoG v1.0
+# seinfo v600.0
 ## Edited by github.com/etoscenel
 ### Don't copy this code without give me the credits, nerd! 
 
@@ -22,7 +22,7 @@ InfoG is a Shellscript to perform Information Gathering
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/seinfo
+git clone https://github.com/etoscenel/seinfo
 cd seinfo
 bash seinfo.sh
 ```
